@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "mineclient",
+    "name": "MineClient",
+    "description": "Client PvP para Minecraft 1.8.9 (uso offline / singleplayer / LAN privada).",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["MineClient"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
